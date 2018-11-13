@@ -24,6 +24,7 @@ public class Controller {
     @FXML
     CheckBox cRecht;
 
+    //Hier sind Instanzvariablen 
     private static double größe = 0;
     private static int auswahl = 0;
 
